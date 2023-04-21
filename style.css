@@ -5,18 +5,18 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.header {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.header img {
   width: 100%;
 }
 
-.aaa .more_inf {
+.header .more_inf {
   font-family: fantasy, cursive;
 }
 
@@ -166,7 +166,7 @@ ul li.editMode label {
 
 @media (max-width: 768px) {
 
-  .aaa {
+  .header {
     text-align: center;
   }
 
