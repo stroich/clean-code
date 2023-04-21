@@ -35,13 +35,13 @@ li {
   margin: 0 auto 0;
 }
 
-.task {
+.addingTask-input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.addingTask {
   display: flex;
 }
 
